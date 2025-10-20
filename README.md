@@ -1,4 +1,5 @@
 # Hi, I'm Tacdin Özmen 👋  
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -12,6 +13,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
 
 I’m a healthcare professional with a strong background in **nursing, hospital management, and data analysis**.  
 🎓 Graduated from *Florence Nightingale Faculty of Nursing, Istanbul University (2020)*  
@@ -97,4 +100,12 @@ I believe in learning by doing — and every dataset tells a story waiting to be
 > “Data has a heartbeat — it just needs the right person to listen.”
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tcdn7&color=blue)
+
+---
+
+### 📊 GitHub Stats
+
+![Tacdin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tcdn7&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tcdn7&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=tcdn7&theme=tokyonight)
 
