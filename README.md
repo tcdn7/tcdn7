@@ -49,7 +49,8 @@ I’m a healthcare professional with a strong background in **nursing, hospital 
 **Development & Tools:**  
 - Jupyter Notebook  
 - Visual Studio Code  
-- Git & GitHub  
+- Git & GitHub
+- Power BI  
 - Excel  
 
 ---
