@@ -1,113 +1,103 @@
 # Hi, I'm Tacdin Özmen 👋  
 
+_Junior Data Analyst & Aspiring Data Scientist · Healthcare & Sports Background_
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-I’m a healthcare professional with a strong background in **nursing, hospital management, and data analysis**.  
-🎓 Graduated from *Florence Nightingale Faculty of Nursing, Istanbul University (2020)*  
-🏥 5+ years of experience in nursing and hospital revenue/statistics departments  
-⚽ 8+ years as a professional football referee — focused, analytical, and disciplined under pressure  
+I’m a healthcare professional transitioning into **Data Science** and **Analytics**, combining 5+ years of experience in **nursing, hospital management, and statistics** with a strong analytical mindset.  
+I enjoy turning messy real-world data into **clear insights and decisions**.
+
+- 🎓 BSc in Nursing · Istanbul University, Florence Nightingale Faculty of Nursing (2020)  
+- 🏥 Experience in hospital revenue & statistics departments  
+- ⚽ 8+ years as a football referee, used to making fast, data-driven decisions under pressure  
 
 ---
 
-### 🔭 Current Focus
-- Advancing in **Data Science** and **Machine Learning**
-- Building projects that combine **healthcare**, **sports analytics**, and **AI**
-- Improving skills in Python, SQL, and predictive modeling
+### 🎯 What I’m Looking For
+
+- **Junior Data Analyst / Junior Data Scientist** roles  
+- Positions where I can work with **real data, dashboards, and predictive models**  
+- Domains: **Healthcare, HealthTech, Sports Analytics, AI-driven Decision Support**
 
 ---
 
-### 🧠 Skills & Tools
+### 🧠 Core Skills
 
-**Programming Languages:**  
-- Python 🐍  
-- SQL  
+**Data & Analytics**
 
-**Python Libraries:**  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- Scikit-learn  
-- TensorFlow  
-- Keras  
-
-**Development & Tools:**  
-- Jupyter Notebook  
-- Visual Studio Code  
-- Git & GitHub
-- Power BI  
-- Excel  
-
----
-
-### 🤖 Data Science & Machine Learning
 - Data cleaning, preprocessing & feature engineering  
-- Exploratory data analysis (EDA) & visualization  
-- Supervised / Unsupervised Learning (classification, regression, clustering)  
-- Model tuning, validation & performance evaluation  
-- Predictive analytics with real-world datasets  
+- Exploratory Data Analysis (EDA) & storytelling with data  
+- Building dashboards and reports for non-technical stakeholders  
+
+**Machine Learning**
+
+- Regression & classification with real-world datasets  
+- Model training, evaluation (RMSE, accuracy, precision/recall)  
+- Experience with scikit-learn pipelines and basic hyperparameter tuning  
+
+**Deep Learning & Computer Vision**
+
+- Neural Networks with **TensorFlow & Keras**  
+- Basic CNN architectures for image classification  
+- Regularization (dropout, batch normalization) & SGD optimizers  
 
 ---
 
-### 🧬 Deep Learning
-- Neural Networks with **Keras & TensorFlow**  
-- Regularization (Dropout, Batch Normalization)  
-- Optimization with **Stochastic Gradient Descent (SGD)**  
-- Binary & Multiclass Classification  
+### 🛠️ Tools & Technologies
+
+- **Languages:** Python, SQL  
+- **Python stack:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras  
+- **Data tools:** Jupyter Notebook, Power BI, Excel  
+- **Dev tools:** Git, GitHub, VS Code, Terminal  
 
 ---
 
-### 🖼️ Computer Vision (CNN)
-- Image classification with **Convolutional Neural Networks**  
-- Convolution, ReLU & Max Pooling layers  
-- Custom CNN architectures & data augmentation  
+### 📂 Featured Project
 
----
+- 🏟️ **FIFA 25 Players Insights**  
+  _Data science & ML analysis of FIFA 25 male players_  
+  - Built a clean data pipeline from raw CSV to analysis-ready dataset  
+  - Performed EDA, feature engineering, and model training (OVR prediction)  
+  - Focused on **reproducible notebooks** and **clear documentation**  
+  👉 Repo: [12-Fifa-players-insights](https://github.com/tcdn7/12-Fifa-players-insights)
 
-### 🚀 Projects (coming soon)
-- 🏥 **Health Analytics:** Hospital data insights & patient trend analysis  
-- ⚽ **Sports Analytics:** Referee decision and match performance data analysis  
-- 🧬 **Machine Learning:** Predictive models for healthcare outcomes  
+> More projects are being added as I complete new data science and machine learning studies.
 
 ---
 
 ### 🌍 About Me
-I aim to merge my **healthcare experience**, **analytical mindset**, and **sports discipline** to create impactful data-driven solutions in **HealthTech**, **AI**, and **Decision Support Systems**.  
-I believe in learning by doing — and every dataset tells a story waiting to be uncovered.  
+
+I aim to merge my **healthcare experience**, **analytical mindset**, and **sports discipline** to create impactful, data-driven solutions in **HealthTech**, **AI**, and **Decision Support Systems**.  
+I believe in learning by doing, and I see every dataset as **a story waiting to be uncovered**.
+
+> “Data has a heartbeat — it just needs the right person to listen.”
 
 ---
 
 ### 📫 Connect With Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/tacdin-%C3%B6zmen-b84237382/)  
+
+- 🌐 LinkedIn: [Tacdin Özmen](https://www.linkedin.com/in/tacdin%C3%B6zmen/)  
 - 💼 GitHub: [github.com/tcdn7](https://github.com/tcdn7)  
 - 📧 Email: **tcdnozmn7@gmail.com**
 
----
-
-> “Data has a heartbeat — it just needs the right person to listen.”
-
 ![Profile Views](https://komarev.com/ghpvc/?username=tcdn7&color=blue)
 
----
+<!--
 
 ### 📊 GitHub Stats
 
 ![Tacdin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tcdn7&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tcdn7&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=tcdn7&theme=tokyonight)
-
+-->
