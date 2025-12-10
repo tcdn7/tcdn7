@@ -2,6 +2,8 @@
 
 _Junior Data Analyst & Aspiring Data Scientist · Healthcare & Sports Background_
 
+🎓 IBM & Coursera digital badges verified on [Credly](https://www.credly.com/users/tacdin-ozmen).
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -64,6 +66,21 @@ I enjoy turning messy real-world data into **clear insights and decisions**.
 - **Python stack:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras  
 - **Data tools:** Jupyter Notebook, Power BI, Excel  
 - **Dev tools:** Git, GitHub, VS Code, Terminal  
+
+---
+
+### 🎓 Digital Badges (Credly)
+
+- **IBM Badge 1 – [Data Science Orientation]**  
+  _Issued by IBM · Verified via_ [Credly](https://www.credly.com/earner/earned/badge/6399acd4-8470-4dec-884a-37e842e4e852)
+
+- **IBM Badge 2 – [Tools for Data Science V2]**  
+  _Issued by IBM · Verified via_ [Credly](https://www.credly.com/earner/earned/badge/a51fdd7d-1aea-4242-be9e-c645f4329df1)
+
+- **IBM Badge 3 – [Data Science Methodology]**  
+  _Issued by IBM · Verified via_ [Credly](https://www.credly.com/earner/earned/badge/93eab887-0f19-44dd-a16c-b781a139d042)
+
+➡️ All badges: [My Credly profile](https://www.credly.com/users/tacdin-ozmen)
 
 ---
 
