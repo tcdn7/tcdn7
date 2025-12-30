@@ -80,6 +80,9 @@ I enjoy turning messy real-world data into **clear insights and decisions**.
 - **IBM Badge 3 – [Data Science Methodology]**  
   _Issued by IBM · Verified via_ [Credly](https://www.credly.com/earner/earned/badge/93eab887-0f19-44dd-a16c-b781a139d042)
 
+- **IBM Badge 4 – [Python for Data Science and AI]**  
+  _Issued by IBM · Verified via_ [Credly](https://www.credly.com/earner/earned/badge/ef02256e-cea2-427e-8372-c6cc8e7b50de)
+
 ➡️ All badges: [My Credly profile](https://www.credly.com/users/tacdin-ozmen)
 
 ---
