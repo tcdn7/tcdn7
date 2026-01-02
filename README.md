@@ -83,6 +83,9 @@ I enjoy turning messy real-world data into **clear insights and decisions**.
 - **IBM Badge 4 – [Python for Data Science and AI]**  
   _Issued by IBM · Verified via_ [Credly](https://www.credly.com/earner/earned/badge/ef02256e-cea2-427e-8372-c6cc8e7b50de)
 
+- **IBM Badge 5 – [Python Project for Data Science]**  
+  _Issued by IBM · Verified via_ [Credly](https://www.credly.com/badges/3bd500d0-35e5-44aa-aef0-271521967636)
+  
 ➡️ All badges: [My Credly profile](https://www.credly.com/users/tacdin-ozmen)
 
 ---
