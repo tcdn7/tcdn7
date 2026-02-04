@@ -94,7 +94,10 @@ I enjoy turning messy real-world data into **clear insights and decisions**.
 
 - **IBM Badge 8 – [Data Visualization with Python]**  
   _Issued by IBM · Verified via_ [Credly](https://www.credly.com/badges/261b487f-4711-4b3a-9179-9345b6cc9f6c)
-  
+
+- **IBM Badge 9 – [Machine Learning with Python]**  
+  _Issued by IBM · Verified via_ [Credly](https://www.credly.com/badges/02bce854-e504-4b95-a6f0-f3584bbabd1e)  
+
 ➡️ All badges: [My Credly profile](https://www.credly.com/users/tacdin-ozmen)
 
 ---
