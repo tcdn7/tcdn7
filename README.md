@@ -101,6 +101,9 @@ I enjoy turning messy real-world data into **clear insights and decisions**.
 - **IBM Badge 10 – [Applied Data Science Capstone]**  
   _Issued by IBM · Verified via_ [Credly](https://www.credly.com/badges/d4c90e13-59f5-434f-bda5-05a1af51739a)
 
+- **IBM Badge 11 – [Generative AI: Elevate Your Data Science Career]**  
+  _Issued by IBM · Verified via_ [Credly](https://www.credly.com/badges/b5e6328b-b2ec-40c7-89f5-c8d626c7007f)
+
 ➡️ All badges: [My Credly profile](https://www.credly.com/users/tacdin-ozmen)
 
 ---
